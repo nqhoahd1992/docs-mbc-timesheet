@@ -122,10 +122,10 @@ Các vấn đề trên vẫn có thể xử lý được bằng việc lấy API
 > "So say I put in an application for leave/WFH on Thursday, it will appear on the shift assignment as Thursday, which means on Friday, it will either make me sign in/out with the timekeeping button and not the QR code OR if I took leave on Thursday mean that I can't sign in on Friday?"
 
 **Kiểm chứng điều này bằng việc xem trên Misa app**:
-Phát hiện một số trường hợp vẫn chấm công được bình thường dù đã có đơn nghỉ phép trước đó.
+- Phát hiện một số trường hợp vẫn chấm công được bình thường dù đã có đơn nghỉ phép trước đó.
     - Ảnh 1: https://prnt.sc/UM_0Hi7-QxlA
     - Ảnh 2: https://prnt.sc/XcIjzssmjykq
-Có thể điều này xảy ra do khung window chấm công của các ca khác nhau dẫn đến việc chấm công vẫn được phép.
+- Có thể điều này xảy ra do khung window chấm công của các ca khác nhau dẫn đến việc chấm công vẫn được phép.
 
 ### 🚨 Sai lệch ngày trên giao diện Admin
 
@@ -149,8 +149,8 @@ Có thể điều này xảy ra do khung window chấm công của các ca khác
 **Thông tin bổ sung**
 - Bảng chấm công chi tiết = Bảng phân ca tổng hợp + Dữ liệu chấm công thực tế
 - Ảnh lỗi: 
-    Bảng phân ca tổng hợp: https://prnt.sc/ZeL2TQIMppFs (Nguồn: Cristina)
-    Bảng chấm công chi tiết: https://prnt.sc/PZNBdKmVoMgl (Nguồn: Cristina)
+    - Bảng phân ca tổng hợp: https://prnt.sc/ZeL2TQIMppFs (Nguồn: Cristina)
+    - Bảng chấm công chi tiết: https://prnt.sc/PZNBdKmVoMgl (Nguồn: Cristina)
 
 ---
 
