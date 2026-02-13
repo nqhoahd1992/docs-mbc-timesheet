@@ -109,11 +109,11 @@ Các vấn đề trên vẫn có thể xử lý được bằng việc lấy API
 **Kịch bản lỗi**:
 
 1. **Ngày thứ 5 (Thursday)**: 
-   - Nhân viên tạo đơn xin nghỉ
+   - Nhân viên tạo đơn xin nghỉ vào ngày này
    - Đơn được phê duyệt
 
 2. **Nhân viên khi sử dụng MISA**:
-   - Vào ngày thứ 5 (Thursday) hệ thống Misa vẫn nhắc nhân viên chấm công, vẫn ghi nhận nhân viên đi làm ngày đó ❌
+   - Vào ngày thứ 5 (Thursday) hệ thống Misa vẫn ghi nhận nhân viên đi làm ngày đó, nhắc nhân viên chấm công ❌
    - Không phản ánh đúng trạng thái nghỉ phép
 
 3. **Ngày thứ 6 (Friday)**:
