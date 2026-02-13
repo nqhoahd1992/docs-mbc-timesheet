@@ -4,8 +4,7 @@
 
 Tài liệu này mô tả các vấn đề gặp phải khi sử dụng hệ thống chấm công MISA ở múi giờ không phải Việt Nam (ví dụ: Úc, UTC+10/+11).
 
-### Nguyên nhân gốc rễ<img width="1015" height="549" alt="image" src="https://github.com/user-attachments/assets/8966d1f4-9e7a-4769-b75f-08815d25973f" />
-
+### Nguyên nhân gốc rễ
 
 Khi thiết lập ca làm việc trong MISA, admin cần nhập:
 - Giờ bắt đầu và kết thúc ca
