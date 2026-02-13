@@ -166,6 +166,7 @@ Một số vấn đề có thể khắc phục bằng cách:
 - ❌ Mất đồng bộ giữa phân ca và đơn xin nghỉ
 - ❌ Sai lệch ngày giữa các module khác nhau
 - ❌ Logic xử lý múi giờ không nhất quán trong hệ thống
+- ❌ Nhân viên tạo đơn hôm trước dẫn đến hôm sau không thể chấm công, không có dữ liệu chấm công thì không thể tính toán
 
 ---
 
