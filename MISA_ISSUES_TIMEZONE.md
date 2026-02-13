@@ -4,7 +4,8 @@
 
 Tài liệu này mô tả các vấn đề gặp phải khi sử dụng hệ thống chấm công MISA ở múi giờ không phải Việt Nam (ví dụ: Úc, UTC+10/+11).
 
-### Nguyên nhân gốc rễ
+### Nguyên nhân gốc rễ<img width="1015" height="549" alt="image" src="https://github.com/user-attachments/assets/8966d1f4-9e7a-4769-b75f-08815d25973f" />
+
 
 Khi thiết lập ca làm việc trong MISA, admin cần nhập:
 - Giờ bắt đầu và kết thúc ca
@@ -107,16 +108,16 @@ Các vấn đề trên vẫn có thể xử lý được bằng việc lấy API
 
 **Kịch bản lỗi**:
 
-1. **Ngày thứ 5**: 
+1. **Ngày thứ 5 (Thursday)**: 
    - Nhân viên tạo đơn xin nghỉ
    - Đơn được phê duyệt
 
 2. **Nhân viên khi sử dụng MISA**:
-   - Vẫn hiển thị nhân viên làm việc bình thường ngày thứ 5 ❌
-   - Không phản ánh trạng thái nghỉ phép
+   - Vào ngày thứ 5 (Thursday) hệ thống Misa vẫn nhắc nhân viên chấm công, vẫn ghi nhận nhân viên đi làm ngày đó ❌
+   - Không phản ánh đúng trạng thái nghỉ phép
 
 3. **Ngày thứ 6**:
-   - Hệ thống lại hiểu hôm nay nhân viên nghỉ nên không cho phép chấm công bình thường ❌
+   - Hệ thống lại hiểu hôm nay nhân viên nghỉ nên không cho phép chấm công ❌
 
 **Feedback từ người dùng (Cristina)**:
 > "So say I put in an application for leave/WFH on Thursday, it will appear on the shift assignment as Thursday, which means on Friday, it will either make me sign in/out with the timekeeping button and not the QR code OR if I took leave on Thursday mean that I can't sign in on Friday?"
