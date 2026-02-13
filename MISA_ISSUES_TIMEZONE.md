@@ -116,7 +116,7 @@ Các vấn đề trên vẫn có thể xử lý được bằng việc lấy API
    - Vào ngày thứ 5 (Thursday) hệ thống Misa vẫn nhắc nhân viên chấm công, vẫn ghi nhận nhân viên đi làm ngày đó ❌
    - Không phản ánh đúng trạng thái nghỉ phép
 
-3. **Ngày thứ 6**:
+3. **Ngày thứ 6 (Friday)**:
    - Hệ thống lại hiểu hôm nay nhân viên nghỉ nên không cho phép chấm công ❌
 
 **Feedback từ người dùng (Cristina)**:
